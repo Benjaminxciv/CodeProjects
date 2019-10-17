@@ -1,0 +1,2 @@
+g++ -o myserver acme_server.cc
+g++ -o myclient acme_client.cc
