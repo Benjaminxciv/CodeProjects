@@ -1,0 +1,531 @@
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT   NTAT  Class 
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT   NTAT  Class 
+ 2       0              5             10          10     2 short
+ 4       0              1             16          16    16 short
+ 7       0              3             29          29     9 short
+ 9       0              3             37          37    12 short
+10       0              5             42          42     8 short
+11       0              2             44          44    22 short
+12       0              3             47          47    15 short
+13       0              4             51          51    12 short
+14       0              1             52          52    52 short
+17       0              4             66          66    16 short
+18       0              2             68          68    34 short
+19       0              1             69          69    69 short
+20       0              5             74          74    14 short
+21       0              4             78          78    19 short
+22       0              1             79          79    79 short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT   NTAT  Class 
+ 2       0              5             10          10     2       short
+ 4       0              1             16          16    16       short
+ 7       0              3             29          29     9       short
+ 9       0              3             37          37    12       short
+10       0              5             42          42     8       short
+11       0              2             44          44    22       short
+12       0              3             47          47    15       short
+13       0              4             51          51    12       short
+14       0              1             52          52    52       short
+17       0              4             66          66    16       short
+18       0              2             68          68    34       short
+19       0              1             69          69    69       short
+20       0              5             74          74    14       short
+21       0              4             78          78    19       short
+22       0              1             79          79    79       short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT   NTAT  Class 
+ 2       0              5             10          10     2    short
+ 4       0              1             16          16    16    short
+ 7       0              3             29          29     9    short
+ 9       0              3             37          37    12    short
+10       0              5             42          42     8    short
+11       0              2             44          44    22    short
+12       0              3             47          47    15    short
+13       0              4             51          51    12    short
+14       0              1             52          52    52    short
+17       0              4             66          66    16    short
+18       0              2             68          68    34    short
+19       0              1             69          69    69    short
+20       0              5             74          74    14    short
+21       0              4             78          78    19    short
+22       0              1             79          79    79    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT   NTAT  Class 
+ 2       0              5             10          10     2    short
+ 4       0              1             16          16    16    short
+ 7       0              3             29          29   9.7    short
+ 9       0              3             37          37    12    short
+10       0              5             42          42   8.4    short
+11       0              2             44          44    22    short
+12       0              3             47          47    16    short
+13       0              4             51          51    13    short
+14       0              1             52          52    52    short
+17       0              4             66          66    16    short
+18       0              2             68          68    34    short
+19       0              1             69          69    69    short
+20       0              5             74          74    15    short
+21       0              4             78          78    20    short
+22       0              1             79          79    79    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT   NTAT  Class 
+ 2       0              5             10          10      2    short
+ 4       0              1             16          16     16    short
+ 7       0              3             29          29    9.7    short
+ 9       0              3             37          37     12    short
+10       0              5             42          42    8.4    short
+11       0              2             44          44     22    short
+12       0              3             47          47     16    short
+13       0              4             51          51     13    short
+14       0              1             52          52     52    short
+17       0              4             66          66     16    short
+18       0              2             68          68     34    short
+19       0              1             69          69     69    short
+20       0              5             74          74     15    short
+21       0              4             78          78     20    short
+22       0              1             79          79     79    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT   NTAT   Class 
+ 2       0              5             10          10      2    short
+ 4       0              1             16          16     16    short
+ 7       0              3             29          29    9.7    short
+ 9       0              3             37          37     12    short
+10       0              5             42          42    8.4    short
+11       0              2             44          44     22    short
+12       0              3             47          47     16    short
+13       0              4             51          51     13    short
+14       0              1             52          52     52    short
+17       0              4             66          66     16    short
+18       0              2             68          68     34    short
+19       0              1             69          69     69    short
+20       0              5             74          74     15    short
+21       0              4             78          78     20    short
+22       0              1             79          79     79    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT   NTAT    Class 
+ 2       0              5             10          10      2    short
+ 4       0              1             16          16     16    short
+ 7       0              3             29          29    9.7    short
+ 9       0              3             37          37     12    short
+10       0              5             42          42    8.4    short
+11       0              2             44          44     22    short
+12       0              3             47          47     16    short
+13       0              4             51          51     13    short
+14       0              1             52          52     52    short
+17       0              4             66          66     16    short
+18       0              2             68          68     34    short
+19       0              1             69          69     69    short
+20       0              5             74          74     15    short
+21       0              4             78          78     20    short
+22       0              1             79          79     79    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT   NTAT    Class 
+ 2       0              5             10          10      2    short
+ 4       0              1             16          16     16    short
+ 7       0              3             29          29    9.7    short
+ 9       0              3             37          37     12    short
+10       0              5             42          42    8.4    short
+11       0              2             44          44     22    short
+12       0              3             47          47     16    short
+13       0              4             51          51     13    short
+14       0              1             52          52     52    short
+17       0              4             66          66     16    short
+18       0              2             68          68     34    short
+19       0              1             69          69     69    short
+20       0              5             74          74     15    short
+21       0              4             78          78     20    short
+22       0              1             79          79     79    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT   NTAT    Class 
+ 2       0              5             10          10      2    short
+ 4       0              1             16          16     16    short
+ 7       0              3             29          29  9.667    short
+ 9       0              3             37          37  12.33    short
+10       0              5             42          42    8.4    short
+11       0              2             44          44     22    short
+12       0              3             47          47  15.67    short
+13       0              4             51          51  12.75    short
+14       0              1             52          52     52    short
+17       0              4             66          66   16.5    short
+18       0              2             68          68     34    short
+19       0              1             69          69     69    short
+20       0              5             74          74   14.8    short
+21       0              4             78          78   19.5    short
+22       0              1             79          79     79    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT   NTAT    Class 
+ 2       0              5             10          10   2.00    short
+ 4       0              1             16          16  16.00    short
+ 7       0              3             29          29   9.67    short
+ 9       0              3             37          37  12.33    short
+10       0              5             42          42   8.40    short
+11       0              2             44          44  22.00    short
+12       0              3             47          47  15.67    short
+13       0              4             51          51  12.75    short
+14       0              1             52          52  52.00    short
+17       0              4             66          66  16.50    short
+18       0              2             68          68  34.00    short
+19       0              1             69          69  69.00    short
+20       0              5             74          74  14.80    short
+21       0              4             78          78  19.50    short
+22       0              1             79          79  79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
+
+
+
+Results for first 15 processes to finish: quantum = 5
+
+PID  Arrival-Time  Service-Time  Departure-Time  TAT    NTAT    Class 
+ 2       0              5             10          10    2.00    short
+ 4       0              1             16          16   16.00    short
+ 7       0              3             29          29    9.67    short
+ 9       0              3             37          37   12.33    short
+10       0              5             42          42    8.40    short
+11       0              2             44          44   22.00    short
+12       0              3             47          47   15.67    short
+13       0              4             51          51   12.75    short
+14       0              1             52          52   52.00    short
+17       0              4             66          66   16.50    short
+18       0              2             68          68   34.00    short
+19       0              1             69          69   69.00    short
+20       0              5             74          74   14.80    short
+21       0              4             78          78   19.50    short
+22       0              1             79          79   79.00    short
